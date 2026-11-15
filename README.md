@@ -125,7 +125,7 @@ campus-events/
 ### Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sachingunawardhana10/campus-event.git
 ```
 
 ### Navigate to the Project
@@ -166,6 +166,10 @@ Public Demo Video: https://drive.google.com/file/d/1PGItIeV7xyqyRAoGu38a_0Z1aGey
 
 - Student Name: B.V.S.D Gunawardhana
 - Student ID: PS/2022/200
+
+## 13. Repo
+
+link: https://github.com/sachingunawardhana10/campus-event.git
 
 ---
 
